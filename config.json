@@ -1,0 +1,19 @@
+{
+  "campaign": "1458",
+  "ecpc": 86.55266544417279,
+  "pctr_test_auc": 0.5539827423648362,
+  "pctr_train_auc": 0.5872954000104786,
+  "ref_daily_spend": 564.3971463804005,
+  "budget_frac": 0.3,
+  "budget": 169.31914391412013,
+  "price_bins": [
+    0.06727001999999999,
+    0.070086
+  ],
+  "calibration": {
+    "alpha": 1.0,
+    "n_episodes": 200,
+    "seed": 12345,
+    "daily_spend_std": 4.529671125077786
+  }
+}

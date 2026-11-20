@@ -1,0 +1,26 @@
+# Data (large; see data/README.md for how to obtain and rebuild it)
+ipinyou.contest.dataset/
+data/raw/
+data/processed/
+
+# Report drafts and archives (kept locally, not in the repository)
+report*/
+*.zip
+
+# Planning documents
+*PLAN*.md
+*plan*.md
+
+# Reference and example material (not our work)
+example projects/
+ipinyu_research_paper_cai25a.pdf
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.vscode/
